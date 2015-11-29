@@ -78,3 +78,43 @@ result as representative of the entire dataset.  I don't believe
 this is feasible, and it is in conflict with other goals.  This
 corpus will not be designed to be used like that, and you should
 view any attempts to do so with a great deal of skepticism.
+
+## Data (WIP)
+
+Data selection is currently in progress, everything here is subject to
+change.
+
+### jquery-2.1.4.min.js
+
+Version 2.1.4 of jQuery, which is probably the most popular JavaScript
+library.  This is minified, and should be pretty close to what most
+JavaScript used on the web looks like these days.
+
+#### Legal Status
+
+jQuery is licensed under the MIT license; redistribution is not an
+issue.
+
+### vmlinux-4.2.6-300.fc23.x86_64
+
+This is a kernel image based on the vmlinuz-4.2.6-300.fc23.x86_64
+which I happen to be running right now.  I simply used the
+`extract-vmlinux` script to extract the uncompressed kernel.
+
+This should be a decent example of machine code.
+
+#### Legal Status
+
+This is a Linux kernel, licensed under the GPLv2.  Redistribition is
+not an issue.
+
+### raspbian-jessie-lite-20151121.tar
+
+I started with Raspbian Jessie Lite (2015-11-21), and mounted the root
+partition, deleted /var/cache/apt/archives/*.deb (Debian packages are
+comperssed archives).  Then I created a tarball of the remaining files.
+
+#### Legal Status
+
+Raspbian is based on Debian, and contains components under many
+different licenses, but it is freely redistributable.
