@@ -118,3 +118,12 @@ comperssed archives).  Then I created a tarball of the remaining files.
 
 Raspbian is based on Debian, and contains components under many
 different licenses, but it is freely redistributable.
+
+### random
+
+8 MiB of random data collected from /dev/urandom with a Linux 4.2.6
+kernel on x86_64 (the same one from vmlinux-4.2.6-300.fc23.x86_64).
+
+#### Legal Status
+
+It's just the output from a PRNG, shouldn't be a problem
