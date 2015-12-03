@@ -139,3 +139,13 @@ downloaded from
 ©2014-2015 Jason Shoumar.  Licensed under the
 [Creative Commons BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
 license.
+
+### eff.html
+
+The [Electronic Frontier Foundation](https://www.eff.org/)'s index
+page, as retrieved on 2015-12-03.
+
+#### Legal Status
+
+Licensed under the
+[Creative Commons BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/).
