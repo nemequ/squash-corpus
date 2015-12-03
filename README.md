@@ -127,3 +127,15 @@ kernel on x86_64 (the same one from vmlinux-4.2.6-300.fc23.x86_64).
 #### Legal Status
 
 It's just the output from a PRNG, shouldn't be a problem
+
+### girl-brunette.blend
+
+[Blender](https://www.blender.org/) 3D model of a young woman,
+downloaded from
+[Clara.io](https://clara.io/view/500eaba8-395c-46ff-abfd-b7e1b3f5807f).
+
+#### Legal Status
+
+©2014-2015 Jason Shoumar.  Licensed under the
+[Creative Commons BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+license.
