@@ -149,3 +149,13 @@ page, as retrieved on 2015-12-03.
 
 Licensed under the
 [Creative Commons BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/).
+
+### MG44-MathGuide.tar
+
+[LibreOffice Math 4.4 User Guide](https://wiki.documentfoundation.org/images/b/bc/MG44-MathGuide.odt)
+in [ODF](https://en.wikipedia.org/wiki/OpenDocument), unzipped then
+added to a tarball.
+
+#### Legal Status
+
+© 2012–2015, dual-licensed under GPLv3+ / CC-BY 4.0.
