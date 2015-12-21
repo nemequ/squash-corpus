@@ -159,3 +159,12 @@ added to a tarball.
 #### Legal Status
 
 © 2012–2015, dual-licensed under GPLv3+ / CC-BY 4.0.
+
+### bootstrap-3.3.6.min.css
+
+The CSS from version 3.3.6 of the extremely popular bootstrap project.
+
+#### Legal Status
+
+© 2011-2015 Twitter, Inc.,
+[MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)-licensed.
