@@ -119,6 +119,8 @@ Version 2.1.4 of jQuery, which is probably the most popular JavaScript
 library.  This is minified, and should be pretty close to what most
 JavaScript used on the web looks like these days.
 
+![jquery-2.1.4.min.js](https://raw.githubusercontent.com/nemequ/squash-corpus/master/fv/jquery-2.1.4.min.js.png)
+
 #### Legal Status
 
 jQuery is licensed under the MIT license; redistribution is not an
@@ -132,6 +134,8 @@ which I happen to be running right now.  I simply used the
 
 This should be a decent example of machine code.
 
+![vmlinux-4.2.6-300.fc23.x86_64](https://raw.githubusercontent.com/nemequ/squash-corpus/master/fv/vmlinux-4.2.6-300.fc23.x86_64.png)
+
 #### Legal Status
 
 This is a Linux kernel, licensed under the GPLv2.  Redistribition is
@@ -143,6 +147,8 @@ I started with Raspbian Jessie Lite (2015-11-21), and mounted the root
 partition, deleted /var/cache/apt/archives/*.deb (Debian packages are
 comperssed archives).  Then I created a tarball of the remaining files.
 
+![raspbian-jessie-lite-20151121.tar](https://raw.githubusercontent.com/nemequ/squash-corpus/master/fv/raspbian-jessie-lite-20151121.tar.png)
+
 #### Legal Status
 
 Raspbian is based on Debian, and contains components under many
@@ -153,6 +159,8 @@ different licenses, but it is freely redistributable.
 8 MiB of random data collected from /dev/urandom with a Linux 4.2.6
 kernel on x86_64 (the same one from vmlinux-4.2.6-300.fc23.x86_64).
 
+![random](https://raw.githubusercontent.com/nemequ/squash-corpus/master/fv/random.png)
+
 #### Legal Status
 
 It's just the output from a PRNG, shouldn't be a problem
@@ -162,6 +170,8 @@ It's just the output from a PRNG, shouldn't be a problem
 [Blender](https://www.blender.org/) 3D model of a young woman,
 downloaded from
 [Clara.io](https://clara.io/view/500eaba8-395c-46ff-abfd-b7e1b3f5807f).
+
+![girl-brunette.blend](https://raw.githubusercontent.com/nemequ/squash-corpus/master/fv/girl-brunette.blend.png)
 
 #### Legal Status
 
@@ -174,6 +184,8 @@ license.
 The [Electronic Frontier Foundation](https://www.eff.org/)'s index
 page, as retrieved on 2015-12-03.
 
+![eff.html](https://raw.githubusercontent.com/nemequ/squash-corpus/master/fv/eff.html.png)
+
 #### Legal Status
 
 Licensed under the
@@ -185,6 +197,8 @@ Licensed under the
 in [ODF](https://en.wikipedia.org/wiki/OpenDocument), unzipped then
 added to a tarball.
 
+![MG44-MathGuide.tar](https://raw.githubusercontent.com/nemequ/squash-corpus/master/fv/MG44-MathGuide.tar.png)
+
 #### Legal Status
 
 © 2012–2015, dual-licensed under GPLv3+ / CC-BY 4.0.
@@ -192,6 +206,8 @@ added to a tarball.
 ### bootstrap-3.3.6.min.css
 
 The CSS from version 3.3.6 of the extremely popular bootstrap project.
+
+![bootstrap-3.3.6.min.css](https://raw.githubusercontent.com/nemequ/squash-corpus/master/fv/bootstrap-3.3.6.min.css.png)
 
 #### Legal Status
 
