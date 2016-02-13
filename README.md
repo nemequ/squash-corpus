@@ -101,6 +101,18 @@ all data for the corpus needs to be public.
 Data selection is currently in progress, everything here is subject to
 change.
 
+| Name                              | Type                      | Size    |
+| --------------------------------- | ------------------------- | ------- |
+| jquery-2.1.4.min.js               | JavaScript                | 84 KiB  |
+| vmlinux-4.2.6-300.fc23.x86_64     | x86_64 machine code       | 15 MiB  |
+| raspbian-jessie-lite-20151121.tar | Mixed; Linux distribution | 723 MiB |
+| random                            | Random                    | 8 MiB   |
+| girl-brunette.blend               | 3D model                  | 1.7 MiB |
+| eff.html                          | HTML                      | 44 KiB  |
+| MG44-MathGuide.tar                | Open Document Format      | 11 MiB  |
+| bootstrap-3.3.6.min.css           | CSS                       | 120 KiB |
+| Total                             |                           | 756 MiB |
+
 ### jquery-2.1.4.min.js
 
 Version 2.1.4 of jQuery, which is probably the most popular JavaScript
