@@ -214,6 +214,16 @@ The CSS from version 3.3.6 of the extremely popular bootstrap project.
 © 2011-2015 Twitter, Inc.,
 [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE)-licensed.
 
+### zlib.wasm
+
+zlib compiled to WebAssembly's binary format.
+
+![zlib.wasm](https://raw.githubusercontent.com/nemequ/squash-corpus/master/fv/zlib.wasm.png)
+
+#### Legal Status
+
+Licensed under the [zlib license](http://www.zlib.net/zlib_license.html).
+
 ## Other Corpora
 
 Existing corpora, which this project aims to largerly replace,
